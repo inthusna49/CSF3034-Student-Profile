@@ -22,6 +22,9 @@ public class StudentProfile {
         System.out.println("Name: Intan Nur Husna binti Morhisam");
         System.out.println("Student ID: S87478");
         System.out.println("Programme: Bachelor of Computer Science");
+        // Activity 5, add semester and fav prog language
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
